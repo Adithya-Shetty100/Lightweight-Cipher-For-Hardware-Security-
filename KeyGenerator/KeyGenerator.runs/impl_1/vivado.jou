@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Jul 15 22:20:19 2022
+# Process ID: 15832
+# Current directory: E:/Capstone/KeyGenerator/KeyGenerator.runs/impl_1
+# Command line: vivado.exe -log lfsr_32bit.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lfsr_32bit.tcl -notrace
+# Log file: E:/Capstone/KeyGenerator/KeyGenerator.runs/impl_1/lfsr_32bit.vdi
+# Journal file: E:/Capstone/KeyGenerator/KeyGenerator.runs/impl_1\vivado.jou
+# Running On: DESKTOP-K7A3KLJ, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 6, Host memory: 17119 MB
+#-----------------------------------------------------------
+source lfsr_32bit.tcl -notrace

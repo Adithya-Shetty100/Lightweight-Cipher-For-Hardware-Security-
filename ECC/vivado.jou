@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Aug  2 19:01:11 2022
+# Process ID: 20220
+# Current directory: D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25324 D:\Downloads\Downloads\Lightweight-Cipher-For-Hardware-Security--main\Lightweight-Cipher-For-Hardware-Security--main\ECC\ECC.xpr
+# Log file: D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC/vivado.log
+# Journal file: D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC/ECC.xpr
+open_project {D:/CODD lab/project_11/project_alu_11.xpr}
+update_compile_order -fileset sources_1

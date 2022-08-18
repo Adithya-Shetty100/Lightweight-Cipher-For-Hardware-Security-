@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Aug  2 19:01:11 2022
+# Process ID: 20220
+# Current directory: D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25324 D:\Downloads\Downloads\Lightweight-Cipher-For-Hardware-Security--main\Lightweight-Cipher-For-Hardware-Security--main\ECC\ECC.xpr
+# Log file: D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC/vivado.log
+# Journal file: D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC/ECC.xpr
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC'
+INFO: [Project 1-313] Project file moved from 'E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC' since last save.
+ERROR: [Project 1-208] No val for DA Elab Attr
+ERROR: [Runs 36-378] The checkpoint 'D:/Downloads/Downloads/Lightweight-Cipher-For-Hardware-Security--main/Lightweight-Cipher-For-Hardware-Security--main/ECC/ECC.srcs/utils_1/imports/synth_1/top_ecc.dcp' was created with 'Vivado v2022.1 (64-bit)', and cannot be opened in this version.
+open_project {D:/CODD lab/project_11/project_alu_11.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Downloads/Xilinx_2017/redownload/Vivado/2017.4/data/ip'.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:14 . Memory (MB): peak = 872.309 ; gain = 66.484
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Aug  2 20:42:13 2022...

@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.sim/sim_1/synth/func/xsim/testbench_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module combinational
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-311] analyzing module decrypt
+INFO: [VRFC 10-311] analyzing module decrypt_2
+INFO: [VRFC 10-311] analyzing module div_stage1
+INFO: [VRFC 10-311] analyzing module div_stage2
+INFO: [VRFC 10-311] analyzing module divider
+INFO: [VRFC 10-311] analyzing module ecc
+INFO: [VRFC 10-311] analyzing module encrypt_x
+INFO: [VRFC 10-311] analyzing module encrypt_x_0
+INFO: [VRFC 10-311] analyzing module encrypt_y
+INFO: [VRFC 10-311] analyzing module encrypt_y_1
+INFO: [VRFC 10-311] analyzing module mul_stage1
+INFO: [VRFC 10-311] analyzing module mul_stage2
+INFO: [VRFC 10-311] analyzing module multiplier
+INFO: [VRFC 10-311] analyzing module square
+INFO: [VRFC 10-311] analyzing module top_ecc
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

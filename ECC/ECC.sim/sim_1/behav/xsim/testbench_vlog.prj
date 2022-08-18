@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/combinational.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/control.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/decrypt.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/div_stage1.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/div_stage2.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/divider.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/ecc.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/encrypt_x.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/encrypt_y.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/mul_stage1.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/mul_stage2.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/multiplier.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/square.v" \
+"../../../../ECC.srcs/sources_1/new/ECC-Encryption-System-master/top_ecc.v" \
+"../../../../ECC.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
