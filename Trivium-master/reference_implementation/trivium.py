@@ -148,17 +148,17 @@ class Trivium:
 def main():
     inFile = open("trivium_ref_in.txt", "w")
     outFile = open("trivium_ref_out.txt", "w")
-    numTests = 10
+    numTests = 1
     
     # Generate reference I/O for specified number of tests
     for testNum in range(numTests):
         # Generate and output random key and IV
         keyStr = ''
         ivStr = ''
-        for i in range(10):
+        #for i in range(10):
             # Generate individual random bytes for key and IV
-            keyStr += hex(randint(0, 255))[2:]
-            ivStr += hex(randint(0, 255))[2:]
+        keyStr+= '96d54d6f2967f4aace6b'
+        ivStr += '00c7ce0265692b865dd8'
         
         keyStr = keyStr.zfill(20)
         ivStr = ivStr.zfill(20)
@@ -173,13 +173,14 @@ def main():
         # Determine random number of 32-bit words to encrypt
         numWords = randint(10, 100)
 
-        for i in range(numWords):
+        for i in range(1):
             # Generate random 32-bit data word and write to output
             curWord = ''
-            for j in range(4):
+            #for j in range(4):
                 # Generate random byte
-                curWord += hex(randint(0, 255))[2:]
-        
+                #curWord += 'fd'
+                #print(curWord)
+            curWord='00000002'
             curWord = curWord.zfill(8);
             inFile.write(curWord + "\n")
         

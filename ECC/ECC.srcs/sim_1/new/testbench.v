@@ -20,7 +20,7 @@ always begin
     #1000 sel<=sel+1;
 end
 initial begin
-    data_in=32'h12345678;
+    data_in=32'habababab;
     reset=0;
     inst=3'b000;
     ctrl=3'b101;
@@ -30,6 +30,8 @@ initial begin
     forever begin 
     #200 if(inst<3)
         inst=inst+1; 
+        else if(inst==3)
+        inst=3'b0;
     end
 end
 endmodule

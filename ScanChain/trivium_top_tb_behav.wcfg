@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="trivium_top_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="trivium_top_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="3.141377 us"></ZoomStartTime>
+      <ZoomEndTime time="27.191378 us"></ZoomEndTime>
+      <Cursor1Time time="11.682498 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="204"></NameColumnWidth>
+      <ValueColumnWidth column_width="78"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="29" />
+   <wvobject fp_name="/trivium_top_tb/clk_i" type="logic">
+      <obj_property name="ElementShortName">clk_i</obj_property>
+      <obj_property name="ObjectShortName">clk_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/n_rst_i" type="logic">
+      <obj_property name="ElementShortName">n_rst_i</obj_property>
+      <obj_property name="ObjectShortName">n_rst_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/dat_i" type="array">
+      <obj_property name="ElementShortName">dat_i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dat_i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/busy_o" type="logic">
+      <obj_property name="ElementShortName">busy_o</obj_property>
+      <obj_property name="ObjectShortName">busy_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/busy_o2" type="logic">
+      <obj_property name="ElementShortName">busy_o2</obj_property>
+      <obj_property name="ObjectShortName">busy_o2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/count" type="array">
+      <obj_property name="ElementShortName">count[1:0]</obj_property>
+      <obj_property name="ObjectShortName">count[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/temp_data_out" type="array">
+      <obj_property name="ElementShortName">temp_data_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/temp_data_in" type="array">
+      <obj_property name="ElementShortName">temp_data_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data_in[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/dat_o" type="array">
+      <obj_property name="ElementShortName">dat_o[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dat_o[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/t1/cphr_en_r" type="logic">
+      <obj_property name="ElementShortName">cphr_en_r</obj_property>
+      <obj_property name="ObjectShortName">cphr_en_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/en1" type="logic">
+      <obj_property name="ElementShortName">en1</obj_property>
+      <obj_property name="ObjectShortName">en1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/en2" type="logic">
+      <obj_property name="ElementShortName">en2</obj_property>
+      <obj_property name="ObjectShortName">en2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/proc_i" type="logic">
+      <obj_property name="ElementShortName">proc_i</obj_property>
+      <obj_property name="ObjectShortName">proc_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/proc_i_2" type="logic">
+      <obj_property name="ElementShortName">proc_i_2</obj_property>
+      <obj_property name="ObjectShortName">proc_i_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/instr_v" type="array">
+      <obj_property name="ElementShortName">instr_v[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instr_v[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/fa/a" type="logic">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/fa/b" type="logic">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/fa/cin" type="logic">
+      <obj_property name="ElementShortName">cin</obj_property>
+      <obj_property name="ObjectShortName">cin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/sum" type="logic">
+      <obj_property name="ElementShortName">sum</obj_property>
+      <obj_property name="ObjectShortName">sum</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/uut/cout" type="logic">
+      <obj_property name="ElementShortName">cout</obj_property>
+      <obj_property name="ObjectShortName">cout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/ld_dat_i" type="array">
+      <obj_property name="ElementShortName">ld_dat_i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ld_dat_i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/ld_reg_a_i" type="array">
+      <obj_property name="ElementShortName">ld_reg_a_i[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ld_reg_a_i[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/ld_reg_b_i" type="array">
+      <obj_property name="ElementShortName">ld_reg_b_i[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ld_reg_b_i[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/init_i" type="logic">
+      <obj_property name="ElementShortName">init_i</obj_property>
+      <obj_property name="ObjectShortName">init_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/start_tests_s" type="logic">
+      <obj_property name="ElementShortName">start_tests_s</obj_property>
+      <obj_property name="ObjectShortName">start_tests_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/key_r" type="array">
+      <obj_property name="ElementShortName">key_r[95:0]</obj_property>
+      <obj_property name="ObjectShortName">key_r[95:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/iv_r" type="array">
+      <obj_property name="ElementShortName">iv_r[95:0]</obj_property>
+      <obj_property name="ObjectShortName">iv_r[95:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/dat_cntr_v" type="array">
+      <obj_property name="ElementShortName">dat_cntr_v[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dat_cntr_v[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trivium_top_tb/cur_test_v" type="array">
+      <obj_property name="ElementShortName">cur_test_v[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cur_test_v[31:0]</obj_property>
+   </wvobject>
+</wave_config>

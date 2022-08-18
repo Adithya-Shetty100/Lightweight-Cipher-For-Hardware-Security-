@@ -1,0 +1,9 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ScanChain/ScanChain.sim/trivium_sim/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ScanChain/ScanChain.srcs/sources_1/new/cipher_engine.v,1659512019,verilog,,E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ScanChain/ScanChain.srcs/sources_1/new/shift_reg.v,,cipher_engine,,,,,,,,
+E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ScanChain/ScanChain.srcs/sources_1/new/shift_reg.v,1659512028,verilog,,E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ScanChain/ScanChain.srcs/sources_1/new/trivium_top.v,,shift_reg,,,,,,,,
+E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ScanChain/ScanChain.srcs/sources_1/new/trivium_top.v,1659689620,verilog,,E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ScanChain/ScanChain.srcs/trivium_sim/new/trivium_top_tb.v,,trivium_top,,,,,,,,
+E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ScanChain/ScanChain.srcs/trivium_sim/new/trivium_top_tb.v,1659689033,verilog,,,,trivium_top_tb,,,,,,,,

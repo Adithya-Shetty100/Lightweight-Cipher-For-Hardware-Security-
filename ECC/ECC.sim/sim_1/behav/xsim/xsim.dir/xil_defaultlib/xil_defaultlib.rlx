@@ -3,7 +3,7 @@
 Apr 18 2022
 16:05:34
 E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
-E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.srcs/sim_1/new/testbench.v,1659272190,verilog,,,,testbench,,,,,,,,
+E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.srcs/sim_1/new/testbench.v,1659376102,verilog,,,,testbench,,,,,,,,
 E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.srcs/sources_1/new/ECC-Encryption-System-master/combinational.v,1659282119,verilog,,E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.srcs/sources_1/new/ECC-Encryption-System-master/control.v,,combinational,,,,,,,,
 E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.srcs/sources_1/new/ECC-Encryption-System-master/control.v,1659284275,verilog,,E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.srcs/sources_1/new/ECC-Encryption-System-master/decrypt.v,,control,,,,,,,,
 E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.srcs/sources_1/new/ECC-Encryption-System-master/decrypt.v,1537759168,verilog,,E:/Capstone/Lightweight-Cipher-For-Hardware-Security-/ECC/ECC.srcs/sources_1/new/ECC-Encryption-System-master/div_stage1.v,,decrypt,,,,,,,,

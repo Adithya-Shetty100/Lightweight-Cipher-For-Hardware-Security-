@@ -1,0 +1,4 @@
+Running: xsim.dir/trivium_top_behav/xsimk.exe -simmode gui -wdb trivium_top_behav.wdb -simrunnum 0 -socket 61118
+Design successfully loaded
+Design Loading Memory Usage: 7332 KB (Peak: 7332 KB)
+Design Loading CPU Usage: 0 ms

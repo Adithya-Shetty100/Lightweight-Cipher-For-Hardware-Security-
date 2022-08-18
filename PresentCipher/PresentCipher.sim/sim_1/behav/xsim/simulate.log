@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+TESTVECTOR=>                  335 plaintext=0000000000000000  key=00000000000000000000  ciphertext=5579c1387b228445
+TESTVECTOR=>                  745 plaintext=834349fd8e99a23b  key=00000000000000000000  ciphertext=cb69cb8566e0b8ac
+TESTVECTOR=>                 1155 plaintext=9281dcb8a883a38c  key=00000000000000000000  ciphertext=7630f7fc676a0452
+TESTVECTOR=>                 1565 plaintext=d392f4ec58356aeb  key=00000000000000000000  ciphertext=593e2847377c2077
+TESTVECTOR=>                 1975 plaintext=3e5380018fc28d70  key=00000000000000000000  ciphertext=8a078c964bd54d3a
+TESTVECTOR=>                 2385 plaintext=0000000000000000  key=3014f4d8c37d9cc7e689  ciphertext=fdc84ac3b81a9d6f
+TESTVECTOR=>                 2795 plaintext=834349fd8e99a23b  key=3014f4d8c37d9cc7e689  ciphertext=19fb2bde5b700ddf
+TESTVECTOR=>                 3205 plaintext=9281dcb8a883a38c  key=3014f4d8c37d9cc7e689  ciphertext=3a21b91c91c0c6d4
+TESTVECTOR=>                 3615 plaintext=d392f4ec58356aeb  key=3014f4d8c37d9cc7e689  ciphertext=2853fe9153cb1cce
+TESTVECTOR=>                 4025 plaintext=3e5380018fc28d70  key=3014f4d8c37d9cc7e689  ciphertext=0b506bedef0036f2
+TESTVECTOR=>                 4435 plaintext=0000000000000000  key=88239f8276ec927c8dec  ciphertext=0985f39458efba2d
+TESTVECTOR=>                 4845 plaintext=834349fd8e99a23b  key=88239f8276ec927c8dec  ciphertext=ddba34e868984341
